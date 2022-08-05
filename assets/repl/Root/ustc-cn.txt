@@ -1,0 +1,4 @@
+# USTC-CN Mirror
+# 这是使用 SUFandom 的 GitHub 存储库工具 change-repo 工具注入的
+# 这种中文被谷歌翻译得很差。
+deb https://mirrors.ustc.edu.cn/termux/apt/termux-root/  root stable

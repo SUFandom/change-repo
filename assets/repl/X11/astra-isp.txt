@@ -1,0 +1,3 @@
+# Astra ISP (UA) Termux Repo
+# Injected by change-repo (A Github Repo by SUFandom)
+deb https://termux.astra.in.ua/apt/termux-x11/ x11 main

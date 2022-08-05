@@ -1,0 +1,4 @@
+# BFSU 的 Termux 存储库
+# 这个中文（简体）是翻译的，所以我相信有一些错误，我不是中国公民。
+# 由 SUFandom 的 GitHub 存储库 change-repo 注入
+deb https://mirrors.bfsu.edu.cn/termux/apt/termux-root/ root stable

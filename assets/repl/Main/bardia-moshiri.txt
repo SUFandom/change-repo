@@ -1,0 +1,3 @@
+# Bardia-Moshiri (Iran) Termux Repo
+# Injected by change-reoo (A Github Repo by SUFandom)
+deb https://mirror.bardia.tech/termux/termux-packages-24/ stable main

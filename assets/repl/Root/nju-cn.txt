@@ -1,0 +1,4 @@
+# NJU
+# 这是 Termux 的 NJU 存储库服务库，由 change-repo 注入，SUFandom 的 GitHub 存储库工具
+# 这里的简体中文由谷歌翻译
+deb https://mirror.nju.edu.cn/termux/apt/termux-root/ root stable

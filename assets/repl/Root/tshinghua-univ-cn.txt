@@ -1,0 +1,4 @@
+# Tshingua-University CN repo
+# 使用由 SUFandom 制作的 GitHub 存储库 change-repo 注入
+# 此简体中文由谷歌翻译
+deb https://mirrors.tuna.tsinghua.edu.cn/termux/apt/termux-root/ root  stable 

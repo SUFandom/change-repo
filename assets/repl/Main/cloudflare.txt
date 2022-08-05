@@ -1,0 +1,4 @@
+# Termux Mirror (Cloudflare)
+# Injected by change-repo, a Github Repository Tool by SUFandom
+deb https://packages-cf.termux.org/apt/termux-main/ stable main
+

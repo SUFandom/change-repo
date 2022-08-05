@@ -1,0 +1,18 @@
+Pick Your Main Repository
+
+Choose Numbers
+
+
+ 1  "Default Repo - US" "Termux America" 
+ 2  "Default Repo - World" "Termux CloudFlare Global" 
+ 3  "Albatross Repo" "Termux Albatross Repo" 
+ 4  "Astra  UA" "Astra - UA Repo Service" 
+ 5  "Bardia-Moshiri" "Termux Iran Repo Service" 
+ 6  "BFSU-CHINA" "FOR CHINESE ONLY - Termux Repo Service" 
+ 7  "Grimler24" "Termux Grimler24 Repo Service" 
+ 8  "KCubeTerm" "Termux KCubeTerm Repo Service" 
+ 9  "LibreHat" "Termux LibreHat Repo Service" 
+10  "NJU-CHINA" "FOR CHINESE ONLY - Termux Repo Service" 
+11  "TU-CHINA" "FOR CHINESE ONLY - TSINGHUA UNIV. REPO SERVICE" 
+12  "USTC-CHINA" "FOR CHINESE ONLY - USTC TERMUX REPO SERVICE"
+13 "Exit"

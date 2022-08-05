@@ -1,0 +1,3 @@
+# Albatross Termux Repo 
+# Injected by change-repo (A Repository from Github by SUFandom)
+deb https://termux.mentality.rip/termux-main/ stable main

@@ -1,0 +1,3 @@
+# Grimler Repository
+# Injected by change-repo, a Repo from Github by SUFandom
+deb https://grimler.se/x11-packages/ x11 main

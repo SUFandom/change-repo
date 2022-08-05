@@ -1,0 +1,3 @@
+# LibreHat Main Repo
+# Injected by change-repo, a GitHub Repository by SUFandom 
+https://termux.librehat.com/apt/termux-root/ root stable

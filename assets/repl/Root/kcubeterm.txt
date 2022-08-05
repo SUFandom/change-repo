@@ -1,0 +1,3 @@
+# KCubeTerm Mirror
+# Injected by change-repo, a GitHub Repo Tool by SUFandom
+deb https://deb.kcubeterm.me/termux-root/ root stable
